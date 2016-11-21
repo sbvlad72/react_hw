@@ -1,0 +1,13 @@
+.Body {
+  background-color: #f2f2f2;
+  font-size: large;
+  padding: 40px;
+}
+
+.Forma {
+  background-color: #fff;
+  padding: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
