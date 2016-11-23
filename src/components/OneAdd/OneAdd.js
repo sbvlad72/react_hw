@@ -32,6 +32,7 @@ class OneAdd extends Component {
             onChange={this.onChange}
             value={this.state.value}
             placeholder="123456"
+            id={this.props.name}
       />
     );
   }
